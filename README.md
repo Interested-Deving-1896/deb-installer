@@ -1,6 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # deb-installer
-GUI program for install .deb files.
 
-[![build result](https://build.opensuse.org/projects/home:mx-packaging/packages/deb-installer/badge.svg?type=default)](https://software.opensuse.org//download.html?project=home%3Amx-packaging&package=deb-installer)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/deb-installer)
 
-![image](https://github.com/MX-Linux/deb-installer/assets/418436/e1c84c27-d0b3-4e2a-8175-5f71970328a8)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
+
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/deb-installer.git
+cd deb-installer
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/deb-installer`](https://github.com/Interested-Deving-1896/deb-installer) and mirrored through:
+
+```
+Interested-Deving-1896/deb-installer  ──►  OpenOS-Project-OSP/deb-installer  ──►  OpenOS-Project-Ecosystem-OOC/deb-installer
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[GPL-3.0](https://github.com/Interested-Deving-1896/deb-installer/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
